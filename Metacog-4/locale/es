@@ -1,0 +1,8 @@
+language=Español
+locale=es
+
+GT.gameOver=Juego finalizado!
+GT.gameFlow=Salir del juego
+
+GT.instructions.title=<b>Metacog</b>
+GT.instructions.text=<p><p>
